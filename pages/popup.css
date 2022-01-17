@@ -1,0 +1,27 @@
+h4 {
+  margin: 0;
+}
+
+.popup {
+  padding: 8px;
+  min-width: 200px;
+  /* min-height: 200px; */
+}
+
+.popup__title {
+  margin-bottom: 8px;
+}
+
+.popup__message {
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+.popup__actions {
+  margin-top: 8px;
+}
+
+.popup__actions button {
+  padding: 4px 12px;
+  border-radius: 8px;
+}
